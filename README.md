@@ -1,4 +1,6 @@
-# Jogo de JoKenPo - Desafio DIO
+# Jogo de JoKenPo-Yu gi oh- Desafio DIO
+
+![image](https://github.com/klysmamsilva/js-game-yu-gi-oh/assets/87070813/56d7f52d-ab3d-4cc6-bdd8-00706a4dbeea)
 
 Este projeto é parte do Desafio de Projeto da trilha de Desenvolvimento de Jogos oferecida pela Digital Innovation One (DIO). Trata-se de um simples e divertido jogo de JoKenPo (Pedra, Papel e Tesoura) desenvolvido em HTML, CSS e JavaScript.
 
